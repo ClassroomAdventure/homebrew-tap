@@ -1,6 +1,6 @@
 cask "annex" do
-  version "1.2.2"
-  sha256 "418645962181e22a898ebf320fee6c86d2cab433f2bf2501cb24bd487273fb4b"
+  version "1.2.3"
+  sha256 "029bbe2f913cd39bc14d42d9b286c0dcb3c8ef82ab9ddca3193f7a9d21894ead"
 
   url "https://github.com/ClassroomAdventure/ca-annex/releases/download/v#{version}/Annex-mac.zip"
   name "Annex"
